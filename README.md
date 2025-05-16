@@ -16,6 +16,7 @@ The distribution of these classes is:
 
 This shows that the dataset is imbalanced. The dataset significantly contains Numerical, Categorical and Multivalued Columns.
 ## Setup Instructions
+Use any environment that supports ipynb files.
 
 ## Key Results
 | Model                                    | Accuracy | Precision | Recall | F1 (macro) |
